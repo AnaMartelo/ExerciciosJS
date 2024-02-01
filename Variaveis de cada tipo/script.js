@@ -3,7 +3,7 @@ const String = "Esta é uma variável do tipo string."
 console.log(String);
 
 
-let Number = "5+5"
+let Number = 5+5
 
 console.log(Number);
 
